@@ -1,0 +1,15 @@
+## Dataset
+
+This project uses the FER2013 dataset.
+
+Due to GitHub size limitations, the dataset is not included in this repository.
+
+You can download it from:
+https://www.kaggle.com/datasets/msambare/fer2013
+
+After downloading, extract it and place it in:
+
+dataset/
+    train/
+    test/
+LINK: https://www.kaggle.com/datasets/msambare/fer2013
